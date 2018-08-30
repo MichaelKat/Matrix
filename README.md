@@ -8,10 +8,12 @@ multiplexes the rows, while the other two TLC5940's set each row's values at a g
 time.
 
 This is a work in progress. So far, this code implements the matrix's ability to:
+
     - React to an input audio signal with various animations;
     - Display scrolling text.
   
   Features that are in development:
+    
     - Being able to switch operation modes given user input;
     - Displaying the time in digital form;
     - Potentially simple games (e.g. snake).
